@@ -1,0 +1,12 @@
+body {
+	background-color: #444444;
+}
+
+.trainHeader {
+	background: url(../images/train.jpg);
+	background-color: #cccccc;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+	color: white;
+}
